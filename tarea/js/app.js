@@ -22,3 +22,5 @@ todos.forEach((estudiante) => {
     listaReportes.innerHTML += `<li>${resultado}</li>`;
   }
 });
+
+// Tarea terminada
